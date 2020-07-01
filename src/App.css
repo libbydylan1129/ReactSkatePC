@@ -1,0 +1,329 @@
+/* header Css*/
+
+.displayName{
+  position: relative;
+  right: 30px;
+  bottom: 8px;
+}
+
+.GoogleSignIn{
+  position: relative;
+  right: 80px;
+  bottom: 20px;
+}
+
+.googleSignOut{
+  right:115px;
+  bottom: 25px;
+  position: relative;
+}
+
+.header_div{
+  background-color: #B3B3B3;
+  height: 120px;
+  position:relative;
+  bottom: 30px;
+}
+
+.header_h1{
+  text-align: center;
+  font-size: 40px;
+  color: #008080;
+  font-family:'Quicksand', sans-serif;
+}
+
+.header_ul{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+list-style-type: none;
+font-family: 'Quicksand', sans-serif;
+}
+
+.li_home{
+
+}
+
+.home_link{
+  color: white;
+  font-size:25px;
+  padding-left: 100px;
+}
+
+.li_spots{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.spots_link{
+  color: white;
+  font-size: 25px;
+}
+
+.community_link{
+  color: white;
+  padding-right: 25px;
+  font-size: 25px;
+}
+
+.li_login{
+  color: #CC6600;
+  font-size: 20px;
+  padding-left: 250px;
+  bottom: 75px;
+  position: relative;
+}
+
+.li_input{
+  padding-left: 30px;
+  height: 50px;
+
+}
+.header_input{
+  border-radius: 25px;
+  border: 2px solid #CC6600;
+  width: 275px;
+  height: 30px;
+  position: relative;
+  bottom: 10px;
+  right: 10px;
+}
+
+.header_button{
+  border-radius: 25px;
+  border: 2px solid #CC6600;
+  width: 50px;
+  height: 20px;
+  position: relative;
+  bottom: 11px;
+  right: 60px;
+}
+
+
+
+.logo{
+  height: 80px;
+  float: 150px;
+}
+
+.li_logo{
+  display:table-row;
+  position: relative;
+  bottom: 60px;
+}
+
+.header_icon{
+  position: relative;
+top: 1px;
+right: 1px;
+}
+
+
+/* LoginCSS*/
+
+.Google_icon{
+  padding-right: 5px;
+  padding-top: 2px;
+}
+
+.Facebook_logo{
+  padding-right: 5px;
+  padding-top: 2px;
+
+}
+
+.loginHeader{
+  position: relative;
+  bottom: 75px;
+  left: 200px;
+  font-family: "Quicksand", sans-serif;
+  color: #CC6600;
+}
+
+.GoogleLi{
+  position: relative;
+  bottom: 40px;
+  left: 145px;
+}
+.Facebookli {
+  position: relative;
+  bottom: 24px;
+}
+
+.loginUl{
+  list-style-type: none;
+  position: relative;
+}
+
+.loginButtonUl{
+  list-style-type: none;
+  position: relative;
+  display:
+}
+
+#password{
+  position: relative;
+  top:5px;
+}
+
+#email{
+  position: relative;
+  top:5px;
+}
+
+
+.login_div{
+  position: relative;
+  bottom: 45px;
+
+}
+
+.Login_login{
+  position: relative;
+  float: right;
+  right: 535px;
+  bottom: 25px;
+}
+
+.headerLoginUsername{
+  padding-bottom: 10px;
+}
+
+.loginForm{
+  position: relative;
+  float: right;
+  top: 35px;
+  right: 300px;
+  font-size: 10px;
+}
+
+.loginUsername{
+  position: relative;
+  bottom: 15px;
+
+}
+
+.loginPassword{
+  position: relative;
+}
+
+
+.loginSubmit{
+  position: relative;
+  top: 10px;
+  color: black;
+  background-color: white;
+  border-radius: 2px;
+  border-color: #CC6600;
+  height:30px;
+  width:75px;
+}
+
+.forgotUsernamePassword{
+  color: #008080 ;
+  font-size: 12px;
+  position: relative;
+  top: 10px;
+}
+
+/*SignUpCSS*/
+
+.signUpForm{
+  position: relative;
+  left: 300px;
+  font-size: 10px;
+}
+
+.Signup_login{
+  position: relative;
+  left: 300px;
+}
+
+.signUpSubmit{
+  position: relative;
+  top: px;
+  color: black;
+  background-color: white;
+  border-radius: 2px;
+  border-color: #CC6600;
+  height: 30px;
+  width: 75px;
+}
+
+input{
+  width: 225px;
+  height: 25px;
+  position: relative;
+  bottom:10px;
+}
+
+.formSignUp{
+  font-size: 25px;
+}
+
+/*Footer Css*/
+
+Footer{
+  position: relative;
+  background-color: #CC6600;
+  height: 200px;
+}
+
+.footerLogo{
+  height: 80px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.ulFooter{
+  list-style-type: none;
+  position: relative;
+  left: 175px;
+  bottom: 85px;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+
+.emailFooter{
+  position: relative;
+  left: 25px;
+  bottom: 35px;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+
+.numberFooter{
+  position: relative;
+  left: 400px;
+  bottom: 76px;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+
+.divIconFooter{
+  list-style-type: none;
+  position: relative;
+  left: 950px;
+  bottom: 115px;
+
+}
+
+.facebookIconFooter{
+padding-right: 10px;
+}
+
+.instageamIconFooter{
+  padding-right: 10px;
+}
+
+Footer{
+  position: relative;
+  top:600px;
+}
+
+
+.markedLocation{
+  color: red;
+  size: 8px;
+}
